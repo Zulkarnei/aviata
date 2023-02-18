@@ -1,6 +1,11 @@
 # aviata
 
 Build the images and run the containers use:
-$ docker-compose up -d --build
+
+```sh
+docker-compose up --build
+```
 
 Test it out at http://localhost:9000. 
+
+
